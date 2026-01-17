@@ -36,13 +36,6 @@ So kannst du **aktuelle Messwerte deiner Wetterstation direkt sehen**, ohne die 
 
 ---
 
-## Screenshots
-
-![Listenansicht](screenshots/list.png)
-![Chartansicht](screenshots/chart.png)
-
----
-
 ## Datenschutz & Datenverarbeitung
 
 - Anmeldung erfolgt über das **OAuth2-Verfahren von Netatmo**
