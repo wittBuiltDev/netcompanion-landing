@@ -82,7 +82,6 @@ Die App bietet iOS Widgets an.
 
 Du hast jederzeit das Recht auf:
 
-- Auskunft über verarbeitete Daten
 - Löschung der lokalen Daten durch Entfernen der App
 
 Da keine personenbezogenen Daten gespeichert werden, genügt es in der Regel, die App zu deinstallieren.
