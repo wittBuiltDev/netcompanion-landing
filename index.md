@@ -85,5 +85,5 @@ Weitere Informationen findest du auf dieser GitHub-Page.
 
 ## Rechtliches
 
-[Datenschutz](https://wittbuiltdev.github.io/netcompanion-landing/datenschutz.md)
-[Impressum](https://wittbuiltdev.github.io/netcompanion-landing/impressum.md)
+[Datenschutz](https://wittbuiltdev.github.io/netcompanion-landing/datenschutz.html)
+[Impressum](https://wittbuiltdev.github.io/netcompanion-landing/impressum.html)
