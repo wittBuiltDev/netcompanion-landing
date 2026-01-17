@@ -85,4 +85,4 @@ Weitere Informationen findest du auf dieser GitHub-Page.
 
 ## Rechtliches
 
-[Datenschutz](https://wittbuilt.github.io/NetCompanion/datenschutz.md) | [Impressum](https://wittbuilt.github.io/NetCompanion/impressum.md)
+[Datenschutz](datenschutz.md) | [Impressum](impressum.md)
