@@ -85,4 +85,4 @@ Weitere Informationen findest du auf dieser GitHub-Page.
 
 ## Rechtliches
 
-[Datenschutz](datenschutz.md) | [AGB](agb.md)
+[Datenschutz](datenschutz.md) | [Impressum](impressum.md)
