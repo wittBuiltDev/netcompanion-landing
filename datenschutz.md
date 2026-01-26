@@ -12,11 +12,10 @@ Die App richtet sich an Nutzer einer **Netatmo Wetterstation**. Ohne einen Netat
 
 Verantwortlich für die Datenverarbeitung:
 
-**Marco Witt**  
-(wittBuilt.dev / NetCompanion)
+**Marco Witt**
 
 Kontakt:  
-Support-E-Mail: *(wird noch ergänzt)*
+Support-E-Mail: support.netcompanion@icloud.com
 
 ## 3. Welche Daten werden verarbeitet?
 
