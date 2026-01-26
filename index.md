@@ -70,7 +70,7 @@ Weitere Funktionen und Verbesserungen sind geplant.
 
 ## Kontakt & Support
 
-Eine Support-E-Mail wird in Kürze ergänzt.
+support.netcompanion@icloud.com
 
 Weitere Informationen findest du auf dieser GitHub-Page.
 
