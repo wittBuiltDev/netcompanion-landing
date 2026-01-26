@@ -12,7 +12,7 @@ Deutschland
 
 ## Kontakt
 
-E-Mail: *(Support-E-Mail wird noch ergänzt)*
+E-Mail: support.netcompanion@icloud.com
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
