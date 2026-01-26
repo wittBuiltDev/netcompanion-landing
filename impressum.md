@@ -5,8 +5,9 @@ Angaben gemäß § 5 TMG
 ## Verantwortlich für den Inhalt
 
 Marco Witt  
-wittBuilt.dev  
-(NetCompanion)
+
+Hesselgasse 37
+69168 Wiesloch
 
 Deutschland
 
